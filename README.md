@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamradevine
 - 👀 I’m interested in programming, computer engineering, cybersecurity, AWS, History, Jeopardy, Singing, Acting, Music, Drums, Bass, Guitar, Ukulele, Piano, and the Native American flute!
-- 🌱 I’m currently re-learning HTML, CSS, Python, C, and Java. I have been away from NC State University for 8 years, raising my 2 children.
+- 🌱 I’m currently re-learning HTML, CSS, Python, C, and Java. I have been away from NCSU for 8 years, raising my 2 children.
 - 💞️ I’m looking to collaborate on projects where I can learn, grow, and get back in the swing of things.
 - 📫 How to reach me tdprice18@gmail.com or @tamradevine on Instagram and X. 
 
